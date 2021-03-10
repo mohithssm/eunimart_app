@@ -1,0 +1,18 @@
+{
+    "style.css": [
+        {
+            "operation": "PASTE",
+            "lines": 18,
+            "keyStrokeTimeStamp": "Wed Mar 10 2021 13:35:30",
+            "keyStrokeInfo": "* {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n.registrationForm > div {\r\n    margin: 10px 0 10px 0;\r\n    width: 100%;\r\n    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;\r\n    font-size: medium;\r\n}\r\n\r\ninput[type=\"text\"] {\r\n    width: 75%;\r\n}\r\n\r\ninput[type=\"email\"] {\r\n    width : 75%\r\n}",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Mar 10 2021 14:17:34",
+            "keyStrokeInfo": "/* ",
+            "position": "12,1"
+        }
+    ]
+}
